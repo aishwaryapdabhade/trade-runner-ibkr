@@ -1,0 +1,3 @@
+2022-05-16 18:28:51,864 INFO org.springframework.boot.StartupInfoLogger [main] Starting TraderunneribkrApplicationTests using Java 17.0.3.1 on DESKTOP-DFEC940 with PID 20064 (started by aishw in C:\github\trade-runner-ibkr)
+2022-05-16 18:28:51,864 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-16 18:28:53,467 INFO org.springframework.boot.StartupInfoLogger [main] Started TraderunneribkrApplicationTests in 2.045 seconds (JVM running for 3.05)
